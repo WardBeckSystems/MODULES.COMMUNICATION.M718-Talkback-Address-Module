@@ -1,5 +1,5 @@
 # 1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp
-Wiki page: [M718](../../../PAGES/M718.md)
+Wiki page: [M718](../../../../PAGES/M718.md)
 
 
 - **Year:** 1995 (found in this file: "Issue #1 March 30, 1995")
@@ -593,7 +593,7 @@ MW94001/M718 .wp
 
 ```json
 {
- "file": "Modules/COMMUNICATION/M718/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
+ "file": "Modules/COMMUNICATION/M718/SCHEMATICS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
  "sha256": "756347c755f74c0646729efff344d8968f5dc39ca703e7f833f89a210ddf1710",
  "kind": "module",
  "models": [

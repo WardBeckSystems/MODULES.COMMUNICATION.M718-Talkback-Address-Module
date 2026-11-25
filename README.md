@@ -1,0 +1,31 @@
+# M718 · Communication
+
+Ward-Beck Systems M718, 1994|27. Wiki page: [M718 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M718.html)
+
+| Folder | What is in it | Files |
+|---|---|---|
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 1 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 7 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 2 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 0 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 0 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 1 |
+| [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 4 |
+
+## Mechanical
+
+_Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
+
+<table>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1h7QoJ9t8kbPlgKXbLtsFQMsrG5v5nEo9/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1h7QoJ9t8kbPlgKXbLtsFQMsrG5v5nEo9" width="240" alt="1994 - M718 - DOC - 940444-03-004 - CARD TUBS NOTE REVOVE ALL BURRS AND SHARP.jpg"></a><br><sub>1994|27 · DOC - 940444-03-004 - CARD TUBS NOTE REVOVE ALL BURRS AND SHARP</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1LGVN5Vyd4RQs1LU7peadIQ2pnBHpRf3x/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1LGVN5Vyd4RQs1LU7peadIQ2pnBHpRf3x" width="240" alt="1994 - M718 - DOC - 940444-04-004 - HYBRID UTL UTL HYBRID HYBRID CUTPUTS CORD REAR.jpg"></a><br><sub>1994|27 · DOC - 940444-04-004 - HYBRID UTL UTL HYBRID HYBRID CUTPUTS CORD REAR</sub></td></tr>
+</table>
+
+## KiCad
+
+_KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
+
+- [M718.kicad_sym](KICAD/M718.kicad_sym)
+
+---
+Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
