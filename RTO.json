@@ -7,55 +7,46 @@
  "verified": null,
  "derived": true,
  "variant_of": null,
- "pins": [
-  {
-   "pin": "1",
-   "signal": "+10 TO +25 VOLTS DC",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/COMMUNICATION/M718/MANUALS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
-   "page": 1
-  },
-  {
-   "pin": "33",
-   "signal": "BUSY TALLY OUTPUT",
-   "kind": "control",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/COMMUNICATION/M718/MANUALS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
-   "page": 1
-  },
-  {
-   "pin": "48",
-   "signal": "TALKBACK ADDRESS OUTPUT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/COMMUNICATION/M718/MANUALS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
-   "page": 1
-  },
-  {
-   "pin": "54",
-   "signal": "TALKBACK ADDRESS OUTPUT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/COMMUNICATION/M718/MANUALS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp",
-   "page": 1
-  }
- ],
  "straps": [],
  "power": [],
  "sources": [
   "Modules/COMMUNICATION/M718/MANUALS/1995 - M718 - 718-02-001 - COMPONENT LAYOUT.wp"
- ]
+ ],
+ "pins": [
+  {
+   "connector": "",
+   "pin": "1",
+   "signal": "+10 TO +25 VOLTS DC",
+   "kind": "power",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "33",
+   "signal": "BUSY TALLY OUTPUT",
+   "kind": "control",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "48",
+   "signal": "TALKBACK ADDRESS OUTPUT",
+   "kind": "out",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "54",
+   "signal": "TALKBACK ADDRESS OUTPUT",
+   "kind": "out",
+   "port": null,
+   "polarity": null
+  }
+ ],
+ "built_from": {
+  "synthesized": "tools/symbol_synth.py in WBSps.ca from Engineering/IO/M718.pins.json"
+ }
 }
