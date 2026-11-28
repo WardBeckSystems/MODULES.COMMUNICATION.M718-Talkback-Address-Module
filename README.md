@@ -1,6 +1,6 @@
 # M718 Talkback Address Module · Communication
 
-Ward-Beck Systems M718, 1994|27. Wiki page: [M718 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M718.html)
+Ward-Beck Systems M718, 1994|27. Wiki page: [M718 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M718-Talkback-Address-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
